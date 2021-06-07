@@ -1,0 +1,4 @@
+# Files to ignore
+
+.ipynb_checkpoints
+dist_cor_app_mags.ipynb
