@@ -1,4 +1,3 @@
-# Files to ignore
-
+.ipynb_checkpoints
 **/*.ipynb_checkpoints/
-dist_corr_app_mags.ipynb
+.gitignore
